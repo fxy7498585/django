@@ -1,0 +1,18 @@
+published:
+  - app:
+      category: life
+      application: weather
+      name: 天气
+      publish_date: 2019-11-05
+      url: /service/weather
+      desc: this is weather app
+      icon: icon-tianqi
+
+  - app:
+      category: kuaidi
+      application: weather
+      name: 快递
+      publish_date: 2019-11-05
+      url: /service/weather
+      desc: this is weather app
+      icon: icon-tianqi
